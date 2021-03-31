@@ -1,1 +1,1 @@
-# Particle-physics--data-analysis
+# Particle physics data-analysis
